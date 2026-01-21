@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "index": 1,
+      "id": 1768143566502,
+      "name": "Roshitha D",
+      "email": "rose@gmail.com",
+      "department": "Artificial Intelligence & Data Science",
+      "gender": "Female",
+      "cgpa": "8.0"
+    },
+    {
+      "index": 2,
+      "id": 1768145073258,
+      "name": "Praveen A",
+      "email": "praveen@example.com",
+      "department": "Artificial Intelligence & Data Science",
+      "gender": "Male",
+      "cgpa": "8.0"
+    },
+    {
+      "index": 3,
+      "id": 1768146210190,
+      "name": "Yuganth S",
+      "email": "yuganth@example.com",
+      "department": "Artificial Intelligence & Machine Learning",
+      "gender": "Male",
+      "cgpa": "9.0"
+    },
+    {
+      "index": 4,
+      "id": 1768187905824,
+      "name": "Harikesh M",
+      "email": "hari@example.com",
+      "department": "Artificial Intelligence & Data Science",
+      "gender": "Male",
+      "cgpa": "7.6"
+    },
+    {
+      "id": 1768188409190,
+      "index": 5,
+      "name": "Harinipen V",
+      "email": "harini@example.com",
+      "department": "Artificial Intelligence & Data Science",
+      "gender": "Female",
+      "cgpa": "8.0"
+    },
+    {
+      "id": 1768189243400,
+      "index": 6,
+      "name": "Nitya Shree",
+      "email": "nitya@example.com",
+      "department": "Electronics and Communication Engineering",
+      "gender": "Female",
+      "cgpa": "7.8"
+    }
+  ]
+}
